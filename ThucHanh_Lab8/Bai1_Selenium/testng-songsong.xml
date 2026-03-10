@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite_SongSong" parallel="classes" thread-count="2" verbose="1">
+    <test name="Kiem Thu Chay Song Song 2 Luong">
+        <classes>
+            <class name="dtm.KiemThuDangNhapSongSongTest"/>
+            <class name="dtm.KiemThuGioHangSongSongTest"/>
+        </classes>
+    </test>
+</suite>

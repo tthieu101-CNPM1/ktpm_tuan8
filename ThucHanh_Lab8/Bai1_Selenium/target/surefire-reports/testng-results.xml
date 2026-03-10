@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-10T15:03:28 ICT" name="Surefire suite" finished-at="2026-03-10T15:03:43 ICT" duration-ms="15118">
+    <groups>
+    </groups>
+    <test started-at="2026-03-10T15:03:28 ICT" name="Surefire test" finished-at="2026-03-10T15:03:43 ICT" duration-ms="15118">
+      <class name="dtm.KiemThuDangNhapTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:dtm.KiemThuDangNhapTest@6d2a209c]" started-at="2026-03-10T15:03:28 ICT" name="setUp" finished-at="2026-03-10T15:03:30 ICT" duration-ms="2341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="kiemThuBoTrongPassword()[pri:0, instance:dtm.KiemThuDangNhapTest@6d2a209c]" started-at="2026-03-10T15:03:30 ICT" name="kiemThuBoTrongPassword" description="Kiem thu bo trong password" finished-at="2026-03-10T15:03:31 ICT" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kiemThuBoTrongPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:dtm.KiemThuDangNhapTest@6d2a209c]" started-at="2026-03-10T15:03:31 ICT" name="tearDown" finished-at="2026-03-10T15:03:31 ICT" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:dtm.KiemThuDangNhapTest@6d2a209c]" started-at="2026-03-10T15:03:31 ICT" name="setUp" finished-at="2026-03-10T15:03:32 ICT" duration-ms="1347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="kiemThuBoTrongUsername()[pri:0, instance:dtm.KiemThuDangNhapTest@6d2a209c]" started-at="2026-03-10T15:03:32 ICT" name="kiemThuBoTrongUsername" description="Kiem thu bo trong username" finished-at="2026-03-10T15:03:32 ICT" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kiemThuBoTrongUsername -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:dtm.KiemThuDangNhapTest@6d2a209c]" started-at="2026-03-10T15:03:32 ICT" name="tearDown" finished-at="2026-03-10T15:03:32 ICT" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:dtm.KiemThuDangNhapTest@6d2a209c]" started-at="2026-03-10T15:03:32 ICT" name="setUp" finished-at="2026-03-10T15:03:34 ICT" duration-ms="1279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="kiemThuDangNhapSaiMatKhau()[pri:0, instance:dtm.KiemThuDangNhapTest@6d2a209c]" started-at="2026-03-10T15:03:34 ICT" name="kiemThuDangNhapSaiMatKhau" description="Kiem thu dang nhap sai mat khau" finished-at="2026-03-10T15:03:34 ICT" duration-ms="279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kiemThuDangNhapSaiMatKhau -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:dtm.KiemThuDangNhapTest@6d2a209c]" started-at="2026-03-10T15:03:34 ICT" name="tearDown" finished-at="2026-03-10T15:03:34 ICT" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:dtm.KiemThuDangNhapTest@6d2a209c]" started-at="2026-03-10T15:03:34 ICT" name="setUp" finished-at="2026-03-10T15:03:35 ICT" duration-ms="1243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="kiemThuDangNhapThanhCong()[pri:0, instance:dtm.KiemThuDangNhapTest@6d2a209c]" started-at="2026-03-10T15:03:35 ICT" name="kiemThuDangNhapThanhCong" description="Kiem thu dang nhap thanh cong" finished-at="2026-03-10T15:03:36 ICT" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kiemThuDangNhapThanhCong -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:dtm.KiemThuDangNhapTest@6d2a209c]" started-at="2026-03-10T15:03:36 ICT" name="tearDown" finished-at="2026-03-10T15:03:36 ICT" duration-ms="115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:dtm.KiemThuDangNhapTest@6d2a209c]" started-at="2026-03-10T15:03:36 ICT" name="setUp" finished-at="2026-03-10T15:03:37 ICT" duration-ms="1301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="kiemThuTaiKhoanBiKhoa()[pri:0, instance:dtm.KiemThuDangNhapTest@6d2a209c]" started-at="2026-03-10T15:03:37 ICT" name="kiemThuTaiKhoanBiKhoa" description="Kiem thu tai khoan bi khoa" finished-at="2026-03-10T15:03:37 ICT" duration-ms="236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kiemThuTaiKhoanBiKhoa -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:dtm.KiemThuDangNhapTest@6d2a209c]" started-at="2026-03-10T15:03:37 ICT" name="tearDown" finished-at="2026-03-10T15:03:37 ICT" duration-ms="137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- dtm.KiemThuDangNhapTest -->
+      <class name="dtm.KiemThuTieuDeTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:dtm.KiemThuTieuDeTest@3ba9ad43]" started-at="2026-03-10T15:03:37 ICT" name="setUp" finished-at="2026-03-10T15:03:39 ICT" duration-ms="1351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testHienThiFormDangNhap()[pri:0, instance:dtm.KiemThuTieuDeTest@3ba9ad43]" started-at="2026-03-10T15:03:39 ICT" name="testHienThiFormDangNhap" description="Kiem thu hien thi form dang nhap" finished-at="2026-03-10T15:03:39 ICT" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHienThiFormDangNhap -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:dtm.KiemThuTieuDeTest@3ba9ad43]" started-at="2026-03-10T15:03:39 ICT" name="tearDown" finished-at="2026-03-10T15:03:39 ICT" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:dtm.KiemThuTieuDeTest@3ba9ad43]" started-at="2026-03-10T15:03:39 ICT" name="setUp" finished-at="2026-03-10T15:03:40 ICT" duration-ms="1282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testNguonTrang()[pri:0, instance:dtm.KiemThuTieuDeTest@3ba9ad43]" started-at="2026-03-10T15:03:40 ICT" name="testNguonTrang" description="Kiem thu nguon trang" finished-at="2026-03-10T15:03:40 ICT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNguonTrang -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:dtm.KiemThuTieuDeTest@3ba9ad43]" started-at="2026-03-10T15:03:40 ICT" name="tearDown" finished-at="2026-03-10T15:03:40 ICT" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:dtm.KiemThuTieuDeTest@3ba9ad43]" started-at="2026-03-10T15:03:40 ICT" name="setUp" finished-at="2026-03-10T15:03:42 ICT" duration-ms="1342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testTieuDe()[pri:0, instance:dtm.KiemThuTieuDeTest@3ba9ad43]" started-at="2026-03-10T15:03:42 ICT" name="testTieuDe" description="Kiem thu tieu de trang chu" finished-at="2026-03-10T15:03:42 ICT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTieuDe -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:dtm.KiemThuTieuDeTest@3ba9ad43]" started-at="2026-03-10T15:03:42 ICT" name="tearDown" finished-at="2026-03-10T15:03:42 ICT" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:dtm.KiemThuTieuDeTest@3ba9ad43]" started-at="2026-03-10T15:03:42 ICT" name="setUp" finished-at="2026-03-10T15:03:43 ICT" duration-ms="1255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testURL()[pri:0, instance:dtm.KiemThuTieuDeTest@3ba9ad43]" started-at="2026-03-10T15:03:43 ICT" name="testURL" description="Kiem thu URL trang chu" finished-at="2026-03-10T15:03:43 ICT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testURL -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:dtm.KiemThuTieuDeTest@3ba9ad43]" started-at="2026-03-10T15:03:43 ICT" name="tearDown" finished-at="2026-03-10T15:03:43 ICT" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- dtm.KiemThuTieuDeTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
